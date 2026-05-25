@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Jaymin Joshi
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to join an IT organization as an intern to develop my skills.
+- 👀 I am building AI automation to save business time and money
 
 
 <!---
